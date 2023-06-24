@@ -1,0 +1,29 @@
+.body {
+    font-family: 'Copperplate', 'Times New Roman', 'Sans-Serif';
+}
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.header-small {
+    text-align: left;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.o-list {
+    color: blue;
+    text-align: center;
+}
+
+.un-list {
+    background-color: beige;
+    font-weight: 800;
+}
+
